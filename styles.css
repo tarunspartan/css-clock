@@ -11,7 +11,7 @@ body{
 
 .time{
     position: absolute;
-    top: 10%;
+    top: 8%;
     display: flex;
     transform: rotate(-25deg) skew(25deg);
     border: 1px solid #dddddd;
