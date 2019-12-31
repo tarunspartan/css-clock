@@ -47,8 +47,8 @@ body{
     display: inline-block;
     position: absolute;
     border-radius: 10px;
-    transition-duration: 50ms;
-    transition-timing-function: steps;
+    //transition-duration: 50ms;
+    //transition-timing-function: steps;
 }
 
 .main span:nth-child(1){
