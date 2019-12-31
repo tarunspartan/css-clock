@@ -8,7 +8,7 @@ body{
     min-width: 100%;
     background-color: #9fb3d1;
 }
-
+/*
 .time{
     position: absolute;
     top: 8%;
@@ -29,7 +29,7 @@ body{
     color: rgba(38, 38, 38,.4);
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
-
+*/
 .main{
     height: 250px;
     width: 250px;
@@ -48,7 +48,7 @@ body{
     position: absolute;
     border-radius: 10px;
     transition-duration: 50ms;
-    transition-timing-function: linear;
+    transition-timing-function: steps;
 }
 
 .main span:nth-child(1){
