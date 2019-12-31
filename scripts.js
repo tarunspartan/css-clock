@@ -11,9 +11,9 @@ const start = () => {
         const secSpan = document.getElementById('sec')
         secSpan.style.transform = `rotate(${seconds*6}deg)`
         
-        const h = document.getElementById('h').innerHTML = hour+':'
+        /* const h = document.getElementById('h').innerHTML = hour+':'
         const m = document.getElementById('m').innerHTML = minutes+':'
-        const s = document.getElementById('s').innerHTML = seconds
+        const s = document.getElementById('s').innerHTML = seconds*/
 
 
         //Minutes
