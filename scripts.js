@@ -3,7 +3,7 @@ window.onload = () => start()
 const start = () => {
     setInterval(() => {
         const d = new Date();
-        const hour = d.getHours()-12
+        const hour = d.getHours()
         const minutes = d.getMinutes()
         const seconds = d.getSeconds()
 
